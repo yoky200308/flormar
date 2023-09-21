@@ -1,0 +1,53 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/84/9f/8b/849f8bde5900e2a44f2c9a68deaa7e74.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FFD700;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #fefefe;
+    font-size: 36px;
+}
+
+main {
+    background-color: rgba(243, 255, 107, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilos para el mensaje */
+#mensaje {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilos para las imágenes */
+#imagenes {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#imagenes img {
+    margin: 10px;
+    max-width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+
+
